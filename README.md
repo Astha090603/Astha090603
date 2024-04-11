@@ -1,76 +1,62 @@
-<h1 align="center">Astha</h1>
-<h3 align="center">Java Fullstack Web Developer </h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Astha090603.Astha090603 " />
 
-##
-<div align="center">
-<h3 align="center">Connect with me :</h3>
-<p align="center">
-<a href="https://github.com/Astha090603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Astha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/astha0906/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Astha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/astharoy_0906/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Astha" height="30" width="40" /></a>
-</p>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Astha!;" />
+</h1>
 
-<center>
-<h3 align="center">Languages and Tools : </h3>
-<table><tr><td valign="top" width="33%">
- </center>
+<h3 align="center">A passionate software developer from India</h3>
 
-<center>
-<h3 align="center">Frontend</h3>
-<div align="center">   
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>   
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>   
-</div>
-
-</td><td valign="top" width="33%">
-
-
-<h3 align="center"> Backend</h3>
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>    
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>    
-</div>
-
-</td><td valign="top" width="33%">
- </center>
-
-<h3 align="center">Tools & Platforms</h3>
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a> 
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Github stats
-<p align="center">
-  <a href="https://github.com/Astha090603">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Astha090603&show_icons=true&count_private=true&theme=radical" />
-  </a>
-  <a href="https://github.com/Astha090603">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Astha090603&theme=radical" />
-  </a>
-  <a href="https://github.com/Astha090603">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astha090603&hide_border=true&layout=compact&theme=radical" />
-  </a>
-</p>  
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Astha090603">
-    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=Astha090603&theme=radical"/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Astha090603&&style=flat-square" align="center" />
-</div>  
+ 
+ 🔭 I’m currently working on **Development of Gamified Platform**
+ 
+ 🌱 I’m currently learning **Java Full Stack Web Development**
 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:astha090603@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/astha0906/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,react,bootstrap,mysql,firebase,vscode,github,git" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Astha090603&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Astha090603&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Astha090603&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
